@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mebeborn/test-products/static/css/main.e93906c3.chunk.css",
+    "main.js": "/mebeborn/test-products/static/js/main.b762ad2e.chunk.js",
+    "main.js.map": "/mebeborn/test-products/static/js/main.b762ad2e.chunk.js.map",
+    "runtime-main.js": "/mebeborn/test-products/static/js/runtime-main.71308601.js",
+    "runtime-main.js.map": "/mebeborn/test-products/static/js/runtime-main.71308601.js.map",
+    "static/css/2.266e55a5.chunk.css": "/mebeborn/test-products/static/css/2.266e55a5.chunk.css",
+    "static/js/2.fdf614ef.chunk.js": "/mebeborn/test-products/static/js/2.fdf614ef.chunk.js",
+    "static/js/2.fdf614ef.chunk.js.map": "/mebeborn/test-products/static/js/2.fdf614ef.chunk.js.map",
+    "index.html": "/mebeborn/test-products/index.html",
+    "precache-manifest.8ba0798d962e6da28b95725124b0cdad.js": "/mebeborn/test-products/precache-manifest.8ba0798d962e6da28b95725124b0cdad.js",
+    "service-worker.js": "/mebeborn/test-products/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/mebeborn/test-products/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.e93906c3.chunk.css.map": "/mebeborn/test-products/static/css/main.e93906c3.chunk.css.map"
+  }
+}
