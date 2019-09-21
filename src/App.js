@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import Table from './components/Table/Table';
 import Input from './components/Input/Input';
 import Loader from './components/Loader/Loader';
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 class App extends Component {
 
@@ -18,11 +17,11 @@ class App extends Component {
     fetch('https://prod-test.herokuapp.com/api/getProducts')
       .then(resonse => resonse.json())
       .then(data => this.setState({ isLoading: false, filteredData: data, data }))
-      .catch(error => this.setState({error}))
+      .catch(error => this.setState({ error }))
   }
 
   changeHandler(event) {
-    let products = this.state.data;
+    let products = [...this.state.data];
 
     if (event.target.value !== '') {
       products = this.state.data.filter(el => {
@@ -32,7 +31,7 @@ class App extends Component {
         return name.includes(searchText);
       });
     }
-    this.setState({ filteredData: products });
+    this.setState({ filteredData: [...products] });
   }
 
   render() {
@@ -48,9 +47,9 @@ class App extends Component {
       <div className="container-fluid">
         {
           this.state.error ? <h1>Try again later</h1> :
-          this.state.isLoading
-            ? <Loader />
-            : content
+            this.state.isLoading
+              ? <Loader />
+              : content
         }
       </div>
     );
