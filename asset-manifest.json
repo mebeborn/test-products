@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/test-products/static/css/main.e3850766.chunk.css",
-    "main.js": "/test-products/static/js/main.1ce2713d.chunk.js",
-    "main.js.map": "/test-products/static/js/main.1ce2713d.chunk.js.map",
-    "runtime-main.js": "/test-products/static/js/runtime-main.8019b070.js",
-    "runtime-main.js.map": "/test-products/static/js/runtime-main.8019b070.js.map",
-    "static/css/2.266e55a5.chunk.css": "/test-products/static/css/2.266e55a5.chunk.css",
-    "static/js/2.b6a0e84c.chunk.js": "/test-products/static/js/2.b6a0e84c.chunk.js",
-    "static/js/2.b6a0e84c.chunk.js.map": "/test-products/static/js/2.b6a0e84c.chunk.js.map",
-    "index.html": "/test-products/index.html",
-    "precache-manifest.9155605aeea4ae5cd745317eb9cf3d4b.js": "/test-products/precache-manifest.9155605aeea4ae5cd745317eb9cf3d4b.js",
-    "service-worker.js": "/test-products/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/test-products/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.e3850766.chunk.css.map": "/test-products/static/css/main.e3850766.chunk.css.map"
+    "main.css": "/test-product/static/css/main.e3850766.chunk.css",
+    "main.js": "/test-product/static/js/main.48a40510.chunk.js",
+    "main.js.map": "/test-product/static/js/main.48a40510.chunk.js.map",
+    "runtime-main.js": "/test-product/static/js/runtime-main.036015ae.js",
+    "runtime-main.js.map": "/test-product/static/js/runtime-main.036015ae.js.map",
+    "static/css/2.266e55a5.chunk.css": "/test-product/static/css/2.266e55a5.chunk.css",
+    "static/js/2.b6a0e84c.chunk.js": "/test-product/static/js/2.b6a0e84c.chunk.js",
+    "static/js/2.b6a0e84c.chunk.js.map": "/test-product/static/js/2.b6a0e84c.chunk.js.map",
+    "index.html": "/test-product/index.html",
+    "precache-manifest.d98d2cfd0e60788a903760aaad4867f0.js": "/test-product/precache-manifest.d98d2cfd0e60788a903760aaad4867f0.js",
+    "service-worker.js": "/test-product/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/test-product/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.e3850766.chunk.css.map": "/test-product/static/css/main.e3850766.chunk.css.map"
   }
 }
